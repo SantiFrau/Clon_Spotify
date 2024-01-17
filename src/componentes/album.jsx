@@ -16,7 +16,6 @@ export default function Album () {
     })
     
     const {setSong} = useContext(songsContext)
-     console.log(album.color)
    return (
        
        <section className="w-full h-full bg-zinc-900 my-4 mx-2 rounded-lg overflow-auto ">

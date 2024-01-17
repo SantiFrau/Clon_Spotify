@@ -48,7 +48,8 @@ export default function Footer(){
   //cambia el estado de la src del audio
   useEffect(() => {
     if (song) {
-      setAudioSrc(`/src/data/music/${song.albumId}/0${song.id}.mp3`);
+      setAudioSrc(`/public/music/${song.albumId}/0${song.id}.mp3`);
+      console.log(audioSrc)
     } else {
       setAudioSrc('');
     }
