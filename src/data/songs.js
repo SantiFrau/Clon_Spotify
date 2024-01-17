@@ -381,7 +381,7 @@ export const songs = [
       "image": "https://imgs.search.brave.com/U7j525rBAJR0j-WbeRhxsjurV3zKL2B0Tv2aLVHqMag/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9nZW8t/bWVkaWEuYmVhdHNv/dXJjZS5jb20vaW1h/Z2Vfc2l6ZS81MDB4/NTAwL2MvYi8wL2Ni/MDQ1MzVmLTgyYjYt/NDI3Yi04NTVhLTUw/M2VhNGU3MjVlOS5q/cGc",
       "artists": ["3AM"],
       "album": "Rain City vol.2",
-      "duration": "2:32"
+      "duration": "2:40"
      },
      {
       "id": 4,
@@ -390,7 +390,7 @@ export const songs = [
       "image": "https://imgs.search.brave.com/U7j525rBAJR0j-WbeRhxsjurV3zKL2B0Tv2aLVHqMag/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9nZW8t/bWVkaWEuYmVhdHNv/dXJjZS5jb20vaW1h/Z2Vfc2l6ZS81MDB4/NTAwL2MvYi8wL2Ni/MDQ1MzVmLTgyYjYt/NDI3Yi04NTVhLTUw/M2VhNGU3MjVlOS5q/cGc",
       "artists": ["3AM","Khea"],
       "album": "Rain City vol.2",
-      "duration": "3:28"
+      "duration": "3:39"
      },
      {
       "id": 5,
@@ -400,6 +400,24 @@ export const songs = [
       "artists": ["3AM","Andrea Ferro"],
       "album": "Rain City vol.2",
       "duration": "3:45"
+     },
+     {
+      "id": 6,
+      "albumId":8,
+      "title": "Siempre",
+      "image": "https://imgs.search.brave.com/U7j525rBAJR0j-WbeRhxsjurV3zKL2B0Tv2aLVHqMag/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9nZW8t/bWVkaWEuYmVhdHNv/dXJjZS5jb20vaW1h/Z2Vfc2l6ZS81MDB4/NTAwL2MvYi8wL2Ni/MDQ1MzVmLTgyYjYt/NDI3Yi04NTVhLTUw/M2VhNGU3MjVlOS5q/cGc",
+      "artists": ["3AM"],
+      "album": "Rain City vol.2",
+      "duration": "1:35"
+     },
+     {
+      "id": 5,
+      "albumId":8,
+      "title": "Vacio",
+      "image": "https://imgs.search.brave.com/U7j525rBAJR0j-WbeRhxsjurV3zKL2B0Tv2aLVHqMag/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9nZW8t/bWVkaWEuYmVhdHNv/dXJjZS5jb20vaW1h/Z2Vfc2l6ZS81MDB4/NTAwL2MvYi8wL2Ni/MDQ1MzVmLTgyYjYt/NDI3Yi04NTVhLTUw/M2VhNGU3MjVlOS5q/cGc",
+      "artists": ["3AM"],
+      "album": "Rain City vol.2",
+      "duration": "2:36"
      },
 
   ]
